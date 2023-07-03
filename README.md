@@ -1,2 +1,9 @@
 # Image_Segmentation_with_KMeans
 Image_Segmentation_with_KMeans
+______________________________
+![image](https://github.com/AUBAI-ALKHABBAZ/Image_Segmentation_with_KMeans/assets/102236043/7256fb81-a4e9-4426-9494-9c76debe78a0)
+__________________________________________________________________________________________________
+Kmeans
+______
+![image](https://github.com/AUBAI-ALKHABBAZ/Image_Segmentation_with_KMeans/assets/102236043/5a20995f-8b3a-4759-a4f0-0cfdc8b99248)
+___________________________________________________________________________________________________
